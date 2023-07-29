@@ -1,7 +1,7 @@
 - 👋 Hi, I’m belam
-- 👀 I’m interested in learning things
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on an open source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me belammuia0@gmail.com
 
 <!---
