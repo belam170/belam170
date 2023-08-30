@@ -31,7 +31,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
 </div>
-
+###
+<a href="https://app.daily.dev/its_belam"><img src="https://api.daily.dev/devcards/3ea719e9ece34f5fadab4fc1a328ab22.png?r=7jq" width="400" alt="belam muia's Dev Card"/></a>
 ###
 
 <div align="center">
